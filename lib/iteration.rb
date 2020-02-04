@@ -9,7 +9,7 @@ def join_ingredients(src)
   new_array = []
   i = 0
   while i < src.length do 
-    src.push("#{")
+    src.push("#{I love (")
   puts "#{I love (element1) and (element2) on my pizza"
   
 end
