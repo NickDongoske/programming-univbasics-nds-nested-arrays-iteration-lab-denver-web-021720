@@ -22,7 +22,7 @@ def find_greater_pair(src)
   new_array = []
   i = 0
   while i < src.size do
-    new_array.push(src[i)
+    new_array.push(src[i])
   end
   new_array
   
