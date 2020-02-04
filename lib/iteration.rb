@@ -9,8 +9,8 @@ def join_ingredients(src)
   new_array = []
   i = 0
   while i < src.length do 
-    src.push("I love #{element1} and #{element2} on my pizza")
- 
+    new_array.push("I love #{element1} and #{element2} on my pizza")
+ end
   
 end
 
