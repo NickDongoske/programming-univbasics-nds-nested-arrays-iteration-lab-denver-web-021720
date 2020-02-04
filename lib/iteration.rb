@@ -8,6 +8,8 @@ def join_ingredients(src)
   # As such, there should be a new String for each inner array, or pair
   new_array = []
   i = 0
+  while i < src.length do 
+    src.push("#{")
   puts "#{I love (element1) and (element2) on my pizza"
   
 end
