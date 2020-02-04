@@ -21,6 +21,10 @@ def find_greater_pair(src)
   # that are in the inner Arrays
   new_array = []
   i = 0
+  while i < src.size do
+    new_array.push(src[i)
+  end
+  new_array
   
 end
 
