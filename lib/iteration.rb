@@ -10,6 +10,7 @@ def join_ingredients(src)
   i = 0
   while i < src.length do 
     new_array.push("I love #{element1} and #{element2} on my pizza")
+    i += 1
  end
   
 end
