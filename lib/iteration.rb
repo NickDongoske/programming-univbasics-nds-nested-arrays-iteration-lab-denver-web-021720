@@ -25,8 +25,7 @@ def find_greater_pair(src)
     new_array.push(src[i])
   end
   new_array
-  
-end
+  end
 
 def total_even_pairs(src)
   # src will be an array of [ [number1, number2], ... [numberN, numberM] ]
